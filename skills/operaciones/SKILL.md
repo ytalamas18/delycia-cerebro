@@ -31,7 +31,7 @@ costo real por kg útil = precio por kg facturado ÷ rendimiento
   (porción, recepción, robo, vencimiento) antes de subir precios.
 
 ## 3. Personal y turnos
-- Atención 12:00–15:00; la preparación es antes. Equipo y sueldos en `memoria/estado.md`.
+- Atención 18:00–23:30; la preparación es antes. Equipo y sueldos en `memoria/estado.md`.
 - **Costo de personal %** = sueldos del período ÷ ventas del período × 100 (entra en el prime cost).
 - Si se proponen cambios de turno: comparar platos/día que se atienden vs horas pagadas
   (`platos por hora-persona = platos del día ÷ horas trabajadas totales`).
@@ -45,7 +45,7 @@ costo real por kg útil = precio por kg facturado ÷ rendimiento
   1. Saludo según el día (**verificar el día de la semana** en hora de La Paz).
   2. Platos del día con precio (**leer bien los precios** de la pizarra; si no se leen, preguntar).
   3. Platos fijos.
-  4. Horario 12:00 a 15:00.
+  4. Horario 18:00 a 23:30.
   5. Dirección: Av. San Pablo de Tarso esq. Las Hortensias, al lado del Cond. La Pradera.
   6. Contacto: 33212850.
   7. Contexto especial si lo hay (feriado, evento).

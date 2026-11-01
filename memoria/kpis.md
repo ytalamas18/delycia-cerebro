@@ -1,6 +1,6 @@
 # KPIs
 
-Última actualización: 2026-10-31 (precarga: todavía sin datos del export).
+Última actualización: 2026-11-01 (primer export: 17/10–31/10).
 Cada número dice de dónde sale. Si falta un dato, queda "pendiente" (no se estima sin avisar).
 
 ## Fórmulas
@@ -19,9 +19,9 @@ Cada número dice de dónde sale. Si falta un dato, queda "pendiente" (no se est
 
 | KPI | Valor | Período | Estado |
 |---|---|---|---|
-| Ventas diarias promedio | pendiente | — | esperar primer export |
-| Platos/día promedio | pendiente | — | esperar primer export |
-| Ticket promedio | pendiente | — | esperar primer export |
+| Ventas diarias promedio | 1.030,73 Bs | 17/10–31/10 | 15.461 ÷ 15 días |
+| Platos/día promedio | 22,2 | 17/10–31/10 | 333 platos ÷ 15 días |
+| Ticket promedio | 70,28 Bs | 17/10–31/10 | 15.461 ÷ 220 tickets (un ticket puede tener varios platos) |
 | Precio plato del día | ≈ 38 Bs | — | ⚠️ confirmar con datos |
 | Food cost % | pendiente | — | faltan compras de insumos en el POS |
 | Prime cost % | pendiente | — | faltan sueldos mensuales |

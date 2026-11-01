@@ -1,6 +1,6 @@
 # datos/
 
-Los genera el export diario del POS (16:00 La Paz). **No editar a mano:** cada corrida los reescribe.
+Los genera el export diario del POS (01:00 La Paz, con el día anterior completo). **No editar a mano:** cada corrida los reescribe.
 `ultimo_export.txt` dice cuándo fue el último. Montos en Bs con punto decimal. Fechas = día de negocio.
 
 | CSV | Qué tiene |
