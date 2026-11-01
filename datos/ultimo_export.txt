@@ -1,0 +1,2 @@
+export: 2026-11-01 17:30 (hora La Paz)
+pos: 965a37a
