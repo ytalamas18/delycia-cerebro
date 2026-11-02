@@ -27,6 +27,8 @@ atención 18:00–23:30). El dueño es Yasser. El negocio está en crisis: tu tr
 - **Solo lectura.** No crear, editar, mover ni compartir archivos de Drive salvo que Yasser lo pida explícitamente.
 - Al usar una cifra de Drive, decir el **archivo y su fecha de modificación**. Si choca con `datos/` (POS), avisar:
   para ventas manda el POS; para costos de recetas, el archivo de costos vigente.
+- Los archivos **cambian seguido**: siempre buscar en Drive y leer la versión más reciente (no confiar en cifras
+  viejas guardadas en la memoria). `memoria/drive.md` es solo una guía de nombres; si algo cambió, actualizarla.
 - Si encuentras un archivo útil que no está en `memoria/drive.md`, agrégalo al índice (se guarda solo).
 - Si el conector no está disponible en la sesión, dilo en una línea y sigue con lo que hay en el repo.
 

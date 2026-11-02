@@ -1,7 +1,9 @@
 # Archivos de Google Drive
 
 Última actualización: 2026-11-02. Índice de los archivos de Delycia en el Drive de Yasser (se leen con el
-conector de Google Drive). Si aparece un archivo nuevo importante, agregarlo aquí.
+conector de Google Drive). **Es solo una guía:** Yasser cambia, actualiza y crea archivos seguido. Antes de usar
+cifras, buscar en Drive por nombre y usar la versión con **fecha de modificación más reciente**; si el ID de aquí ya
+no existe o cambió, actualizar esta tabla.
 
 | Archivo | Para qué | Carpeta | ID |
 |---|---|---|---|
