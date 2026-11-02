@@ -17,10 +17,19 @@ Este archivo lleva además lo que no está en el POS (préstamo del dueño, Sies
 | Sueldo Samuel (Bailaba Mollo Samuel) | 823,50 | — | 30/10: 823,50 (Yasser vía Peso #226287) | 0,00 ✅ |
 | Sueldo Yaque (Yaquelin Torres Choque) | 683,33 (corregido por Yasser; antes 688,33) | — | 30/10: 683,33 (Yasser vía Peso #226284) | 0,00 ✅ |
 | Mozzarella 2 kg | ≈ 140,00 | a definir | — | ≈ 140,00 |
-| **Total** | **≈ 7.108,83** | | **2.806,83** | **≈ 4.302,00** |
+| CRE (luz) agosto 2026 | 431,00 | a definir | — | 431,00 (factura 681 − 250; ⚠️ "−250" sin confirmar) |
+| CRE (luz) septiembre 2026 | 462,30 | a definir | — | 462,30 (factura 712,30 − 250) |
+| CRE (luz) octubre 2026 | 492,00 | a definir | — | 492,00 (factura 742 − 250) |
+| Saguapac (agua) agosto 2026 | 28,95 | a definir | — | 28,95 (factura 108,95 − 80; ⚠️ "−80" sin confirmar) |
+| Saguapac (agua) septiembre 2026 | 116,87 | a definir | — | 116,87 (factura 196,87 − 80) |
+| Saguapac (agua) octubre 2026 | 19,01 | a definir | — | 19,01 (factura 99,01 − 80) |
+| Barril lager del 21/10/2026 | 700,00 | a definir | — | 700,00 (distinto del barril del 25/08, ya pagado) |
+| **Total** | **≈ 9.358,96** | | **2.806,83** | **≈ 6.552,13** |
 
-Cálculo saldo: 1.200 + 1.215 + 780 + 581 + 386 + 140 = 4.302,00 (= 7.108,83 − 2.806,83).
-Sin Siesam (proveedores de comida): 4.302 − 1.200 = 3.102,00.
+Cálculo saldo: 4.302,00 (Siesam 1.200 + comida 3.102) + CRE 1.385,30 (431 + 462,30 + 492) + Saguapac 164,83
+(28,95 + 116,87 + 19,01) + barril 700 = 6.552,13.
+Yasser (02/11) va a cargar Siesam y carne directo en el POS; CRE, Saguapac y barril del 21/10 también van como compra
+a crédito (recomendado). Cuando estén en `cuentas_por_pagar.csv`, esa es la fuente y estas filas se dejan de llevar a mano.
 
 ## Pagos de Yasser con su dinero (comprobantes del 28/10 al 02/11)
 

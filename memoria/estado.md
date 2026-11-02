@@ -20,12 +20,12 @@
 | Dato | Valor | Estado |
 |---|---|---|
 | Alquiler | 2.000 Bs/mes | ✅ fijo; se paga a fin del mes en curso (~día 28). Octubre pagado el 28/10 por Yasser; **noviembre vence ~28/11** |
-| Luz | pendiente | ❓ sin registros |
-| Agua | pendiente | ❓ sin registros |
+| Luz (CRE) | factura 681 / 712,30 / 742 (ago/sep/oct); a pagar −250 = 431 / 462,30 / 492 | ⚠️ "−250" sin confirmar; ago–oct impagos |
+| Agua (Saguapac) | factura 108,95 / 196,87 / 99,01 (ago/sep/oct); a pagar −80 = 28,95 / 116,87 / 19,01 | ⚠️ "−80" sin confirmar; ago–oct impagos |
 | Gas | pendiente | ❓ sin registros |
 | Sueldos mensuales (planilla) | pendiente | ❓ |
 | Precio plato del día | ≈ 38 Bs | ⚠️ confirmar con `datos/ventas_por_plato.csv` |
-| Deuda con terceros | ≈ 4.302 Bs | al 02/11 (Siesam 1.200 + proveedores 3.102); ver `deudas.md` |
+| Deuda con terceros | ≈ 6.552,13 Bs | al 02/11 (Siesam 1.200 + comida 3.102 + luz 1.385,30 + agua 164,83 + barril 700); ver `deudas.md` |
 | Préstamo de Yasser al negocio | 4.806,83 Bs | pagos 28/10–02/11 (los 5.000 de antes quedan descartados); Sheet "Préstamo Yasser" |
 | Ventas diarias promedio | ≈ 1.031 Bs | 17/10–31/10: 15.461 Bs ÷ 15 días (`ventas_por_dia.csv`) |
 | Food cost % | pendiente | faltan compras de insumos registradas |
@@ -44,7 +44,7 @@
 - En reportes viejos de Siesam, "SALCHIPAPA CLASICA" = salchipapa de pollo.
 
 ## Pendientes de dato (pedir a Yasser)
-1. Luz, agua, gas: monto mensual promedio.
+1. Gas: monto mensual. Luz y agua: ¿qué es el "−250" (CRE) y el "−80" (Saguapac)? ¿Fecha de corte de CRE?
 2. Sueldos mensuales de cada persona (no solo lo adeudado) y roles de Samuel y Yaque.
 3. Fechas de las cuotas de Siesam (la 1.ª se pagó el 02/11).
 4. Precio exacto de la mozzarella (≈ 140 Bs por 2 kg).
