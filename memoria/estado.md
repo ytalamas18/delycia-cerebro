@@ -33,9 +33,13 @@
 ## Caja (saldos de inicio de mes, dados por Yasser)
 | Fecha | Efectivo (Bs) | Cuenta bancaria (Bs) | Total (Bs) | Nota |
 |---|---:|---:|---:|---|
-| 2026-11-01 (inicio de noviembre) | 56,70 | 1.792,79 | 1.849,49 | Efectivo = fondo de apertura del 01/11 en `cierres_caja.csv` ✅. ⚠️ Sin confirmar: qué cuenta es (¿la que recibe los QR?) y si el saldo es antes de los QR del 01/11 |
+| 2026-11-01 (inicio de noviembre) | 56,70 | 1.792,79 | 1.849,49 | Efectivo = fondo de apertura del 01/11 en `cierres_caja.csv` ✅. Cuenta = saldo de inicio de noviembre, antes de las ventas del 01/11 ✅ |
 
 Cálculo: 56,70 + 1.792,79 = 1.849,49. Es el saldo inicial para el flujo de caja de noviembre.
+
+**Cómo entra el dinero QR:** los cobros QR caen en una **cuenta puente**; de ahí se consolidan y se hace un solo
+depósito a la cuenta del negocio (la de 1.792,79). ⚠️ Pendiente: saldo de la cuenta puente al 01/11 y cada cuánto se
+pasa a la cuenta principal (si tenía saldo, también es caja del negocio).
 
 ## Sistemas y datos
 - **Siesam** (sistema anterior): cortado por deuda. Se le deben 1.800 Bs en 3 cuotas mensuales de 600.
