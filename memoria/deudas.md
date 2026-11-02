@@ -1,6 +1,6 @@
 # Deudas
 
-Última actualización: 2026-11-02 (pagos con comprobante enviados por Yasser).
+Última actualización: 2026-11-02 (pagos con comprobante; el préstamo de 5.000 queda descartado).
 Fuente de verdad para proveedores registrados en el POS: `datos/cuentas_por_pagar.csv` y `datos/pagos_deuda.csv`.
 Este archivo lleva además lo que no está en el POS (préstamo del dueño, Siesam si no se registra).
 
@@ -15,11 +15,12 @@ Este archivo lleva además lo que no está en el POS (préstamo del dueño, Sies
 | Abarrotes | 581,00 | a definir | — | 581,00 |
 | Verduras | 386,00 | a definir | — | 386,00 |
 | Sueldo Samuel (Bailaba Mollo Samuel) | 823,50 | — | 30/10: 823,50 (Yasser vía Peso #226287) | 0,00 ✅ |
-| Sueldo Yaque (Yaquelin Torres Choque) | 688,33 | — | 30/10: 683,33 (Yasser vía Peso #226284) | 5,00 ⚠️ sin confirmar (¿la deuda era 683,33?) |
+| Sueldo Yaque (Yaquelin Torres Choque) | 683,33 (corregido por Yasser; antes 688,33) | — | 30/10: 683,33 (Yasser vía Peso #226284) | 0,00 ✅ |
 | Mozzarella 2 kg | ≈ 140,00 | a definir | — | ≈ 140,00 |
-| **Total** | **≈ 7.113,83** | | **2.806,83** | **≈ 4.307,00** |
+| **Total** | **≈ 7.108,83** | | **2.806,83** | **≈ 4.302,00** |
 
-Cálculo saldo: 7.113,83 − (600 + 700 + 823,50 + 683,33) = 7.113,83 − 2.806,83 = 4.307,00.
+Cálculo saldo: 1.200 + 1.215 + 780 + 581 + 386 + 140 = 4.302,00 (= 7.108,83 − 2.806,83).
+Sin Siesam (proveedores de comida): 4.302 − 1.200 = 3.102,00.
 
 ## Pagos de Yasser con su dinero (comprobantes del 28/10 al 02/11)
 
@@ -33,19 +34,19 @@ Cálculo saldo: 7.113,83 − (600 + 700 + 823,50 + 683,33) = 7.113,83 − 2.806,
 | | | **Total** | **4.806,83** | |
 
 2.000 + 683,33 + 823,50 + 700 + 600 = 4.806,83.
-⚠️ **Sin confirmar:** ¿estos pagos salieron del préstamo de 5.000 o son dinero nuevo de Yasser (además de los 5.000)?
+✅ Yasser (02/11): estos pagos **son** su préstamo al negocio. Los 5.000 Bs se ignoran (descartados).
+Registro compartido: Google Sheet **Préstamo Yasser** en Drive `Agente Delycia` (ID `1gNcXK6Jl1Cy1sT5DySDRmCFAZTzjEnauPbQO0TG06yU`).
 
 ## Deuda con el dueño
 
 | Acreedor | Monto (Bs) | Plan | Pagos | Saldo (Bs) |
 |---|---:|---|---|---:|
-| Préstamo de Yasser | 5.000,00 | sin plan de devolución (definir) | — | 5.000,00 |
-| Pagos de Yasser 28/10–02/11 (tabla de arriba) | 4.806,83 | sin urgencia de devolución (Yasser, 02/11) | — | 4.806,83 ⚠️ sin confirmar si es aparte de los 5.000 |
+| Préstamo de Yasser (pagos 28/10–02/11, tabla de arriba) | 4.806,83 | sin urgencia de devolución; va al final de la prioridad | — | 4.806,83 |
 
 Es **préstamo**, no venta ni capital: no suma a ventas ni a ganancia.
-Si los pagos son aparte: deuda con Yasser = 5.000 + 4.806,83 = 9.806,83 Bs. Si salieron de los 5.000: queda 5.000.
+Si Yasser pone más plata, se agrega aquí y en el Sheet "Préstamo Yasser".
 
-## Reparto propuesto del préstamo — ⏳ PENDIENTE DE CONFIRMAR
+## ~~Reparto propuesto del préstamo de 5.000~~ — ❌ DESCARTADO (02/11: Yasser dice ignorar los 5.000)
 
 | Destino | Bs |
 |---|---:|
