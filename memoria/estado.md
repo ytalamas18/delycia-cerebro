@@ -60,6 +60,8 @@ pasa a la cuenta principal (si tenía saldo, también es caja del negocio).
 3. Fechas de las cuotas de Siesam (la 1.ª se pagó el 02/11).
 4. Precio exacto de la mozzarella (≈ 140 Bs por 2 kg).
 5. ¿Los proveedores (carne, papas, abarrotes, verduras) están cobrando ya? ¿Fechas?
+6. **Revisar al terminar la carga en el POS:** cómo manejar la merma de la papa (1 kg cruda ≠ 1 kg frita) en
+   compras, inventario y recetas. Yasser pidió no tratarlo todavía.
 
 ## En espera (no considerar)
 - Cierre del 30/10: "cuentas pagadas de yaque −285, samuel −200 y michael −112" (cajón). Yasser lo revisa con
