@@ -27,12 +27,30 @@ atención 18:00–23:30). El dueño es Yasser. El negocio está en crisis: tu tr
   `1YqyLESUm7jfF7GJg7MclB2o419669RW8`) y sus subcarpetas. **No busques ni leas nada fuera de ella**, aunque el
   conector lo permita (el Drive tiene archivos personales y de trabajo). Si falta un archivo, pídele a Yasser que lo
   ponga en esa carpeta.
-- **Solo lectura.** No crear, editar, mover ni compartir archivos salvo que Yasser lo pida explícitamente.
+- **Solo lectura**, salvo la subcarpeta `Registros` (ver abajo). No editar, mover ni compartir otros archivos salvo que
+  Yasser lo pida explícitamente.
 - Los archivos **cambian seguido**: lista la carpeta en cada consulta y lee la versión más reciente (no confiar en
   cifras viejas guardadas en la memoria). Al usar una cifra, decir **archivo y fecha de modificación**.
 - Si choca con `datos/` (POS): para ventas manda el POS; para costos de recetas, el archivo de costos vigente.
 - Mantén `memoria/drive.md` como guía del contenido de la carpeta (se guarda solo).
 - Si el conector no está disponible en la sesión, dilo en una línea y sigue con lo que hay en el repo.
+
+## Registros en Drive (lo que ven Yasser y Harumi)
+El repo es tu memoria; la hoja **`Delycia — Registros`** es la vitrina para personas que no entran al repo (Harumi).
+- Hoja: ID `1cCv96Z7ciMjgXnERZe-ujPhQ80K07Osof5jwWfA-ghI`, en `Agente Delycia/Registros`
+  (carpeta ID `1zWCs8Nae_lVmvmBf9lVnsuHKq90cQduI`). Pestañas: **Deudas**, **Pagos**, **Decisiones**, **Pendientes**.
+- **Date cuenta solo** de cuándo lo que se habla cambia algo de esas 4 pestañas (deuda nueva, pago, saldo, decisión,
+  pendiente nuevo o resuelto) y actualiza **los dos lugares** en la misma respuesta: repo (`deudas.md`,
+  `decisiones.md`, `estado.md`) y la hoja. Aviso: `📝 Guardé: <qué> (memoria + Registros)`.
+- No todo va a la hoja: estado general, KPIs, resúmenes de charla e índice de Drive quedan solo en el repo.
+- Cómo escribir: un pago → fila nueva en **Pagos** (fecha AAAA-MM-DD, acreedor, monto, medio, origen del dinero,
+  saldo después, nota) y en **Deudas** actualizar Pagado, Saldo, Estado, la fila TOTAL y "Actualizado". Montos
+  como número (sin "Bs"). Decisiones nuevas y pendientes: fila nueva arriba de las vacías; al resolver un
+  pendiente, cambiar su Estado a "Hecho" (no borrar filas).
+- **Al inicio de cada chat** lee la hoja: si alguien cambió algo ahí que no está en el repo, avísalo y pregunta antes
+  de pasarlo a la memoria.
+- Solo escribes dentro de `Registros`. Si Yasser pide otro registro (ej. compras), créalo ahí como hoja nueva o
+  pestaña nueva y anótalo aquí y en `memoria/drive.md`.
 
 ## Memoria: se guarda SOLA (Yasser no tiene que pedirlo)
 - **Cuándo:** apenas aparezca algo nuevo que valga para chats futuros: una decisión, un pago o deuda, un dato del
