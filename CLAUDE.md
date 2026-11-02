@@ -19,6 +19,16 @@ atención 18:00–23:30). El dueño es Yasser. El negocio está en crisis: tu tr
    - plata, costos, márgenes, deudas, P&L → `skills/finanzas/SKILL.md`
    - compras, proveedores, mermas, personal, menú del día → `skills/operaciones/SKILL.md`
    - cómo usar el POS, quién puede hacer qué, por qué un número del sistema no cuadra → `skills/sistema/SKILL.md`
+5. Si la pregunta necesita escandallos, precios de insumos, gastos viejos o planillas: buscar en **Google Drive**
+   (índice en `memoria/drive.md`).
+
+## Google Drive (archivos de Yasser)
+- Se usa con el conector de Google Drive para **leer** y revisar números (costos, precios de insumos, gastos, cierres).
+- **Solo lectura.** No crear, editar, mover ni compartir archivos de Drive salvo que Yasser lo pida explícitamente.
+- Al usar una cifra de Drive, decir el **archivo y su fecha de modificación**. Si choca con `datos/` (POS), avisar:
+  para ventas manda el POS; para costos de recetas, el archivo de costos vigente.
+- Si encuentras un archivo útil que no está en `memoria/drive.md`, agrégalo al índice (se guarda solo).
+- Si el conector no está disponible en la sesión, dilo en una línea y sigue con lo que hay en el repo.
 
 ## Memoria: se guarda SOLA (Yasser no tiene que pedirlo)
 - **Cuándo:** apenas aparezca algo nuevo que valga para chats futuros: una decisión, un pago o deuda, un dato del
