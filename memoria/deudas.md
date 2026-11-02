@@ -45,6 +45,10 @@ Registro compartido: Google Sheet **Préstamo Yasser** en Drive `Agente Delycia`
 
 Es **préstamo**, no venta ni capital: no suma a ventas ni a ganancia.
 Si Yasser pone más plata, se agrega aquí y en el Sheet "Préstamo Yasser".
+**Cómo registrar una devolución** (propuesto 02/11): **no va en el POS como compra** (sería contar el gasto dos veces;
+el POS no tiene préstamos). Se anota aquí, en Registros → Pagos (origen = caja del negocio) y en el Sheet "Préstamo
+Yasser" (fila Tipo = Devolución). Pagarla **por transferencia** (no toca el arqueo); si sale del cajón, escribirlo en
+la nota del cierre ("devolución préstamo Yasser X Bs") para que el faltante quede explicado.
 
 ## ~~Reparto propuesto del préstamo de 5.000~~ — ❌ DESCARTADO (02/11: Yasser dice ignorar los 5.000)
 
