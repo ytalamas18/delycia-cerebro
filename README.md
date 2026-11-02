@@ -12,7 +12,7 @@ Memoria y skills del agente gerente-asistente de **Delycia**. Repo **privado**: 
 | `memoria/kpis.md` | Ventas, platos/día, food cost, equilibrio | Agente (solo, avisa) |
 | `memoria/charlas/` | Resumen de cada charla (por fecha) | Agente |
 | `datos/` | CSVs del POS, todos los días a la 01:00 | Export automático de la EC2 (no editar a mano) |
-| `skills/` | Finanzas y operaciones | Yasser |
+| `skills/` | Finanzas, operaciones y sistema POS | Yasser |
 
 ## Cómo se usa
 1. Abre una sesión de **Claude Code** (app, web o celular) con este repo.
