@@ -11,7 +11,7 @@ Memoria y skills del agente gerente-asistente de **Delycia**. Repo **privado**: 
 | `memoria/deudas.md` | Deudas, plan y pagos | Agente (solo, avisa) |
 | `memoria/kpis.md` | Ventas, platos/día, food cost, equilibrio | Agente (solo, avisa) |
 | `memoria/charlas/` | Resumen de cada charla (por fecha) | Agente |
-| `memoria/drive.md` | Índice de archivos de Google Drive (costos, gastos, precios) | Agente |
+| `memoria/drive.md` | Carpeta de Drive del agente (`Agente Delycia`) y su contenido | Agente |
 | `datos/` | CSVs del POS, todos los días a la 01:00 | Export automático de la EC2 (no editar a mano) |
 | `skills/` | Finanzas, operaciones y sistema POS | Yasser |
 

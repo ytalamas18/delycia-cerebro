@@ -19,17 +19,19 @@ atención 18:00–23:30). El dueño es Yasser. El negocio está en crisis: tu tr
    - plata, costos, márgenes, deudas, P&L → `skills/finanzas/SKILL.md`
    - compras, proveedores, mermas, personal, menú del día → `skills/operaciones/SKILL.md`
    - cómo usar el POS, quién puede hacer qué, por qué un número del sistema no cuadra → `skills/sistema/SKILL.md`
-5. Si la pregunta necesita escandallos, precios de insumos, gastos viejos o planillas: buscar en **Google Drive**
-   (índice en `memoria/drive.md`).
+5. Si la pregunta necesita escandallos, precios de insumos, gastos viejos o planillas: revisar la carpeta de
+   Google Drive **`Agente Delycia`** (ver `memoria/drive.md`).
 
-## Google Drive (archivos de Yasser)
-- Se usa con el conector de Google Drive para **leer** y revisar números (costos, precios de insumos, gastos, cierres).
-- **Solo lectura.** No crear, editar, mover ni compartir archivos de Drive salvo que Yasser lo pida explícitamente.
-- Al usar una cifra de Drive, decir el **archivo y su fecha de modificación**. Si choca con `datos/` (POS), avisar:
-  para ventas manda el POS; para costos de recetas, el archivo de costos vigente.
-- Los archivos **cambian seguido**: siempre buscar en Drive y leer la versión más reciente (no confiar en cifras
-  viejas guardadas en la memoria). `memoria/drive.md` es solo una guía de nombres; si algo cambió, actualizarla.
-- Si encuentras un archivo útil que no está en `memoria/drive.md`, agrégalo al índice (se guarda solo).
+## Google Drive (solo la carpeta "Agente Delycia")
+- Usa el conector de Google Drive **solo dentro de la carpeta `Agente Delycia`** (ID
+  `1YqyLESUm7jfF7GJg7MclB2o419669RW8`) y sus subcarpetas. **No busques ni leas nada fuera de ella**, aunque el
+  conector lo permita (el Drive tiene archivos personales y de trabajo). Si falta un archivo, pídele a Yasser que lo
+  ponga en esa carpeta.
+- **Solo lectura.** No crear, editar, mover ni compartir archivos salvo que Yasser lo pida explícitamente.
+- Los archivos **cambian seguido**: lista la carpeta en cada consulta y lee la versión más reciente (no confiar en
+  cifras viejas guardadas en la memoria). Al usar una cifra, decir **archivo y fecha de modificación**.
+- Si choca con `datos/` (POS): para ventas manda el POS; para costos de recetas, el archivo de costos vigente.
+- Mantén `memoria/drive.md` como guía del contenido de la carpeta (se guarda solo).
 - Si el conector no está disponible en la sesión, dilo en una línea y sigue con lo que hay en el repo.
 
 ## Memoria: se guarda SOLA (Yasser no tiene que pedirlo)
