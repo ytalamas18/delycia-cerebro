@@ -95,7 +95,7 @@ por debajo de la reserva), avísalo primero aunque no lo pregunte.
 - `gastos.csv`: `tipo=insumo` → costo de alimentos (food cost); `tipo=gasto_operativo` → alquiler, luz, sueldos…
   El gasto cuenta en la fecha de compra aunque no se haya pagado.
 - `pagos_deuda.csv`: salida de dinero. Pagar una deuda **no** es un gasto nuevo (el gasto ya contó al comprar).
-- El **préstamo de Yasser (5.000 Bs)** no es venta ni ganancia: es deuda del negocio con él (`deudas.md`).
+- El **préstamo de Yasser (4.806,83 Bs al 02/11; ver `deudas.md`)** no es venta ni ganancia: es deuda del negocio con él (`deudas.md`).
 - Antes de hablar de un día, confirma la fecha y el **día de la semana** (zona America/La_Paz).
 
 ## Estilo
