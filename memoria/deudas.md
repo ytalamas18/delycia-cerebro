@@ -26,7 +26,7 @@ Sin Siesam (proveedores de comida): 4.302 − 1.200 = 3.102,00.
 
 | Fecha | A quién | Concepto | Bs | Medio |
 |---|---|---|---:|---|
-| 28/10 | Cuenta Banco Ganadero 1310753162 | Alquiler **noviembre 2026** | 2.000,00 | BCP, trx 0726102800224079 |
+| 28/10 | Cuenta Banco Ganadero 1310753162 | Alquiler **octubre 2026** (el comprobante dice "noviembre"; Yasser corrigió: es octubre) | 2.000,00 | BCP, trx 0726102800224079 |
 | 30/10 | Yaquelin Torres Choque | Sueldo adeudado | 683,33 | Peso #226284 |
 | 30/10 | Samuel Bailaba Mollo | Sueldo adeudado | 823,50 | Peso #226287 |
 | 30/10 | Thelen Enrique | Barril lager del 25/08 | 700,00 | Peso #226297 |

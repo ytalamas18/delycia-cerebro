@@ -5,7 +5,7 @@ Más reciente arriba. Estado: ✅ hecha · ⏳ pendiente · 🔄 en curso · ❌
 | Fecha | Decisión | Por qué | Responsable | Estado |
 |---|---|---|---|---|
 | 2026-11-02 | Préstamo de Yasser = sus pagos del 28/10–02/11 (4.806,83 Bs); se ignoran los 5.000 de antes. Registro en Sheet "Préstamo Yasser" (Drive) | Lo que realmente puso; sin urgencia de devolución | Yasser | ✅ |
-| 2026-11-02 | Deudas viejas ya pagadas no se cargan al POS (solo `deudas.md`); el alquiler de noviembre sí, como gasto operativo pagado por Transferencia | No ensuciar los gastos de noviembre; P&L de noviembre correcto | Yasser/Harumi | ⏳ cargar alquiler |
+| 2026-11-02 | Deudas viejas ya pagadas no se cargan al POS (solo `deudas.md`); el alquiler de **octubre** (pagado 28/10) sí, como gasto operativo con fecha 28/10 pagado por Transferencia | No ensuciar los gastos de noviembre; P&L de octubre correcto | Yasser/Harumi | ⏳ cargar alquiler |
 | 2026-11-01 | La memoria se guarda sola (sin pedir OK), con aviso `📝 Guardé` y resumen por charla en `memoria/charlas/` | Comodidad: no depender de acordarse de pedirlo; git permite deshacer | Yasser | ✅ |
 | 2026-11-01 | Export diario pasa de 16:00 a la 01:00 | Nuevo horario de atención 18:00–23:30 | Yasser | ✅ activo desde 01/11 23:52 |
 | 2026-10-31 | Gastos operativos y deudas viejas se registran en el POS como compras de la categoría "Gastos operativos" (Insumo, unidad, sin stock) | No hay módulo de gastos; así salen en el export separados del food cost | Yasser | ✅ |

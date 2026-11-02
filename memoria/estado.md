@@ -19,7 +19,7 @@
 ## Números clave
 | Dato | Valor | Estado |
 |---|---|---|
-| Alquiler | 2.000 Bs/mes | ✅ fijo; noviembre pagado el 28/10 por Yasser |
+| Alquiler | 2.000 Bs/mes | ✅ fijo; se paga a fin del mes en curso (~día 28). Octubre pagado el 28/10 por Yasser; **noviembre vence ~28/11** |
 | Luz | pendiente | ❓ sin registros |
 | Agua | pendiente | ❓ sin registros |
 | Gas | pendiente | ❓ sin registros |
