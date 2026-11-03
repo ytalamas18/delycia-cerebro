@@ -69,6 +69,10 @@ pasa a la cuenta principal (si tenía saldo, también es caja del negocio).
 7. **POS v2:** desplegar (respaldo antes) y cargar saldos iniciales de Efectivo / Banco (QR) / ATC-PeYa en Caja y
    bancos. Decidir: ¿la cuenta puente del QR es la cuenta "Banco"? ¿Harumi ve el libro? ¿traspasos hacia Efectivo?
 
+8. **Tiempo de preparación por plato** (minutos): no está en el archivo de costos ni en el export. Pedir a Dña. Ely
+   cronometrar o pedir en delycia-pos un reporte de tiempos de cocina (el KDS guarda las horas). Para decidir qué
+   platos sacar de la carta.
+
 ## En espera (no considerar)
 - Cierre del 30/10: "cuentas pagadas de yaque −285, samuel −200 y michael −112" (cajón). Yasser lo revisa con
   Harumi; **no tomarlo en cuenta** hasta que avise.

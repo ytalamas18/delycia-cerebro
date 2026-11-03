@@ -1,6 +1,6 @@
 # Google Drive — carpeta del agente
 
-Última actualización: 2026-11-02.
+Última actualización: 2026-11-03.
 
 **El agente solo usa la carpeta `Agente Delycia`** (ID `1YqyLESUm7jfF7GJg7MclB2o419669RW8`, en Mi unidad) y sus
 subcarpetas. Lo que esté fuera de ella no se lee, aunque el conector lo permita. Yasser pone ahí los archivos que
@@ -16,6 +16,14 @@ Archivos grandes salen largos: buscar la hoja o tabla que se necesita en vez de 
 | Archivo | Para qué | Modificado | ID |
 |---|---|---|---|
 | Costos Delycia.xlsx | Costos: tabla de insumos (precio real, +20 %, unidad de compra y de receta, precio por unidad), tabla de preparaciones (carne de hamburguesa, milanesas...) y productos | 2026-10-01 (subido el 02/11) | `1_vi322IUp-bl3UkMYjX2U2xGU2yZiNI0` |
+
+Notas de `Costos Delycia.xlsx` (revisado 03/11): el conector lo devuelve como texto plano de ~154 KB (se guarda a
+archivo; buscar "Costos totales"). Tabla **Costos totales**: Producto, Costo elaboración, Gastos operativos
+(= **38,25 % del PVP**, asignación), Costo total, PVP, Ganancia real, Margen real, PVP/ganancia PeYa, Costo
+elaboración proyectado. También: gaseosas (costo y PVP), preparación de carnes (hamburguesa 90 g, milanesa pollo
+150 g, carne 140 g, pipoca 250 g, sándwich 110 g), ventas Siesam 01/07–17/09 (79 días) y tablas de PVP
+recomendado (Tabla D adoptada 26/09). **No tiene tiempos de preparación.** Nachos Supremos tiene el mismo costo que
+Porción de papas (receta incompleta). Almuerzos (caja china, pique macho...) no están.
 
 ## Registros (el agente escribe aquí)
 
