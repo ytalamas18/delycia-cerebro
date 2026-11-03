@@ -1,1 +1,13 @@
 fecha,nro_compra,proveedor,concepto,categoria,tipo,cantidad,unidad,monto_bs,nota
+2026-10-31,2,Casera carne,Carne molida,Insumos,insumo,35.000,kg,1215.00,
+2026-10-31,3,CRE,Luz local,Gastos operativos,gasto_operativo,1.000,unidad,492.00,"agosto, septiembre, octubre"
+2026-10-31,3,CRE,Luz local,Gastos operativos,gasto_operativo,1.000,unidad,431.00,"agosto, septiembre, octubre"
+2026-10-31,3,CRE,Luz local,Gastos operativos,gasto_operativo,1.000,unidad,462.30,"agosto, septiembre, octubre"
+2026-10-31,4,Saguapac,Agua local,Gastos operativos,gasto_operativo,1.000,unidad,19.01,"agosto, septiembre, octubre"
+2026-10-31,4,Saguapac,Agua local,Gastos operativos,gasto_operativo,1.000,unidad,28.95,"agosto, septiembre, octubre"
+2026-10-31,4,Saguapac,Agua local,Gastos operativos,gasto_operativo,1.000,unidad,116.87,"agosto, septiembre, octubre"
+2026-10-31,5,Enrique Cerveza,Barril cerveza,Insumos,insumo,1.000,litro,700.00,
+2026-10-31,6,Tigo,Internet local,Gastos operativos,gasto_operativo,1.000,unidad,195.00,"agosto, septiembre, octubre"
+2026-10-31,6,Tigo,Internet local,Gastos operativos,gasto_operativo,1.000,unidad,195.00,"agosto, septiembre, octubre"
+2026-10-31,6,Tigo,Internet local,Gastos operativos,gasto_operativo,1.000,unidad,195.00,"agosto, septiembre, octubre"
+2026-11-02,1,Fabio papas,Papa cruda,Insumos,insumo,30.000,kg,390.00,

@@ -1,1 +1,6 @@
 proveedor,nro_compra,fecha_compra,total_bs,pagado_bs,saldo_bs,vencimiento,nota
+CRE,3,2026-10-31,1385.30,431.00,954.30,,"agosto, septiembre, octubre"
+Enrique Cerveza,5,2026-10-31,700.00,0.00,700.00,,
+Fabio papas,1,2026-11-02,390.00,0.00,390.00,,
+Saguapac,4,2026-10-31,164.83,28.95,135.88,,"agosto, septiembre, octubre"
+Tigo,6,2026-10-31,585.00,195.00,390.00,,"agosto, septiembre, octubre"
