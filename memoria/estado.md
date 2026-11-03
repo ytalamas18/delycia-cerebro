@@ -77,3 +77,4 @@ pasa a la cuenta principal (si tenía saldo, también es caja del negocio).
 ## En espera (no considerar)
 - Cierre del 30/10: "cuentas pagadas de yaque −285, samuel −200 y michael −112" (cajón). Yasser lo revisa con
   Harumi; **no tomarlo en cuenta** hasta que avise.
+  Los −112 "de michael" **no son de Michael** (Yasser, 03/11): no descontarlos de su fiado (145 Bs).
