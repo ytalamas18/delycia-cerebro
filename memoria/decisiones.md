@@ -4,7 +4,7 @@ Más reciente arriba. Estado: ✅ hecha · ⏳ pendiente · 🔄 en curso · ❌
 
 | Fecha | Decisión | Por qué | Responsable | Estado |
 |---|---|---|---|---|
-| 2026-11-03 | **Tope de fiado: 400 Bs por persona**, sin excepciones. Quien ya lo pasó se pone al día y no saca más fiado hasta bajar de 400 | Fiado al 03/11: 1.820 Bs (`cuentas_por_cobrar.csv`); Harumi 502, Elizabeth 478, Celina 422 por encima | Yasser / Harumi (caja) | 🔄 mensaje enviado al equipo |
+| 2026-11-03 | **Tope de fiado: 400 Bs por persona**, sin excepciones. Quien ya lo pasó se pone al día y no saca más fiado hasta bajar de 400 | Fiado al 03/11: 1.820 Bs (`cuentas_por_cobrar.csv`); Elizabeth 688 (eli + elizabeth), Harumi 502, Celina 422 por encima | Yasser / Harumi (caja) | 🔄 mensaje enviado al equipo |
 | 2026-11-02 | Préstamo de Yasser = sus pagos del 28/10–02/11 (4.806,83 Bs); se ignoran los 5.000 de antes. Registro en Sheet "Préstamo Yasser" (Drive) | Lo que realmente puso; sin urgencia de devolución | Yasser | ✅ |
 | 2026-11-02 | Deudas viejas ya pagadas no se cargan al POS (solo `deudas.md`); el alquiler de **octubre** (pagado 28/10) sí, como gasto operativo con fecha 28/10 pagado por Transferencia | No ensuciar los gastos de noviembre; P&L de octubre correcto | Yasser/Harumi | ⏳ cargar alquiler |
 | 2026-11-01 | La memoria se guarda sola (sin pedir OK), con aviso `📝 Guardé` y resumen por charla en `memoria/charlas/` | Comodidad: no depender de acordarse de pedirlo; git permite deshacer | Yasser | ✅ |
