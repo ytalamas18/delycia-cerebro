@@ -1,6 +1,6 @@
 # Estado actual de Delycia
 
-Última actualización: 2026-11-02.
+Última actualización: 2026-11-03.
 
 ## Negocio
 - Restaurante casual de comida casera artesanal. Av. San Pablo de Tarso esq. Las Hortensias (al lado del
@@ -44,6 +44,9 @@ pasa a la cuenta principal (si tenía saldo, también es caja del negocio).
 ## Sistemas y datos
 - **Siesam** (sistema anterior): cortado por deuda. Se le deben 1.800 Bs en 3 cuotas mensuales de 600.
 - **Sistema propio (`delycia-pos`)**: 1–2 semanas de ventas registradas. Export diario 01:00 → `datos/`.
+- **Mejoras v2 del POS** (02/11, `main` 2548528): envío automático a cocina, retiros de efectivo, cuenta de origen y
+  n° de comprobante en pagos, reporte "Pagos a proveedores" y **libro de caja y bancos** (reemplaza el cuaderno).
+  **Listo en código, falta desplegar** en la EC2. Detalle en `skills/sistema/SKILL.md` ([v2]).
 - Gastos operativos (alquiler, luz, sueldos...) se registran en el POS como compras de la categoría
   "Gastos operativos" (`datos/gastos.csv`, tipo `gasto_operativo`). El préstamo NO va en el POS.
 - No hay registros previos de gastos ni costos fijos. Al 01/11 `gastos.csv` está vacío (no se registran compras).
@@ -62,6 +65,9 @@ pasa a la cuenta principal (si tenía saldo, también es caja del negocio).
 5. ¿Los proveedores (carne, papas, abarrotes, verduras) están cobrando ya? ¿Fechas?
 6. **Revisar al terminar la carga en el POS:** cómo manejar la merma de la papa (1 kg cruda ≠ 1 kg frita) en
    compras, inventario y recetas. Yasser pidió no tratarlo todavía.
+
+7. **POS v2:** desplegar (respaldo antes) y cargar saldos iniciales de Efectivo / Banco (QR) / ATC-PeYa en Caja y
+   bancos. Decidir: ¿la cuenta puente del QR es la cuenta "Banco"? ¿Harumi ve el libro? ¿traspasos hacia Efectivo?
 
 ## En espera (no considerar)
 - Cierre del 30/10: "cuentas pagadas de yaque −285, samuel −200 y michael −112" (cajón). Yasser lo revisa con
