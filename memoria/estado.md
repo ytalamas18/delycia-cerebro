@@ -50,7 +50,8 @@ pasa a la cuenta principal (si tenía saldo, también es caja del negocio).
 - Gastos operativos (alquiler, luz, sueldos...) se registran en el POS como compras de la categoría
   "Gastos operativos" (`datos/gastos.csv`, tipo `gasto_operativo`). El préstamo NO va en el POS.
 - No hay registros previos de gastos ni costos fijos. Al 01/11 `gastos.csv` está vacío (no se registran compras).
-- Fiado pendiente al 01/11: 1.728 Bs en 21 cuentas (`cuentas_por_cobrar.csv`).
+- Fiado pendiente al 03/11: 1.820 Bs en 23 órdenes (`cuentas_por_cobrar.csv`). **Tope: 400 Bs por persona** (desde 03/11).
+  ⚠️ Sin confirmar: ¿"eli" (210) es Dña. Ely y es distinta de "elizabeth" (478)?
 
 ## Datos operativos conocidos
 - Papa frita: ≈ 470 g por kg facturado (≈ 48 % pérdida al freír + ≈ 2 % faltante del proveedor). Referencia
