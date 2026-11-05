@@ -56,7 +56,8 @@ pasa a la cuenta principal (si tenía saldo, también es caja del negocio).
 ## Datos operativos conocidos
 - **Dos papas distintas:** "Papa cruda" (POS, kg) = papa **ya cortada** que vende Fabio papas; "Papa entera con
   cáscara" (kg, se compra por **arroba**) = la que a veces se compra aparte. ✅ dicho por Yasser 05/11.
-  Factor arroba→kg y libra→kg (locoto): ⚠️ pendiente que Yasser confirme.
+  **Arroba = 11,5 kg** (dicho por Yasser 05/11; escribió "1,,5", interpretado como 11,5 ⚠️ confirmar).
+  **Libra = 0,46 kg** (referencia de internet: arroba = 25 libras → 11,5 ÷ 25; ⚠️ sin confirmar con proveedor).
 - Papa frita: ≈ 470 g por kg facturado (≈ 48 % pérdida al freír + ≈ 2 % faltante del proveedor). Referencia
   teórica era 37,5 % de merma. ⚠️ Confirmar con muestras más grandes.
 - En reportes viejos de Siesam, "SALCHIPAPA CLASICA" = salchipapa de pollo.
