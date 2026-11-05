@@ -1,6 +1,6 @@
 # Estado actual de Delycia
 
-Última actualización: 2026-11-03.
+Última actualización: 2026-11-05.
 
 ## Negocio
 - Restaurante casual de comida casera artesanal. Av. San Pablo de Tarso esq. Las Hortensias (al lado del
@@ -54,6 +54,9 @@ pasa a la cuenta principal (si tenía saldo, también es caja del negocio).
   En el POS, "eli" y "elizabeth" son **la misma persona** (Elizabeth): sumar ambas (688 Bs al 03/11). ✅ dicho por Yasser 03/11
 
 ## Datos operativos conocidos
+- **Dos papas distintas:** "Papa cruda" (POS, kg) = papa **ya cortada** que vende Fabio papas; "Papa entera con
+  cáscara" (kg, se compra por **arroba**) = la que a veces se compra aparte. ✅ dicho por Yasser 05/11.
+  Factor arroba→kg y libra→kg (locoto): ⚠️ pendiente que Yasser confirme.
 - Papa frita: ≈ 470 g por kg facturado (≈ 48 % pérdida al freír + ≈ 2 % faltante del proveedor). Referencia
   teórica era 37,5 % de merma. ⚠️ Confirmar con muestras más grandes.
 - En reportes viejos de Siesam, "SALCHIPAPA CLASICA" = salchipapa de pollo.
