@@ -1,5 +1,12 @@
 fecha,nro_compra,fecha_compra,proveedor,tipo,monto_bs,medio,nota
+2026-11-01,7,2026-11-01,Casera carne,contado,376.00,TRANSFER,
+2026-11-01,8,2026-11-01,Casera carne,contado,116.00,TRANSFER,
+2026-11-01,9,2026-11-01,(sin proveedor),contado,110.00,TRANSFER,
 2026-11-02,2,2026-10-31,Casera carne,abono,1215.00,TRANSFER,999420589
 2026-11-02,3,2026-10-31,CRE,abono,431.00,TRANSFER,999610684
 2026-11-02,4,2026-10-31,Saguapac,abono,28.95,TRANSFER,999627510
 2026-11-02,6,2026-10-31,Tigo,abono,195.00,TRANSFER,25252705
+2026-11-02,12,2026-11-02,(sin proveedor),contado,58.50,TRANSFER,
+2026-11-02,13,2026-11-02,(sin proveedor),contado,59.00,TRANSFER,
+2026-11-04,10,2026-11-04,(sin proveedor),contado,13.00,TRANSFER,
+2026-11-04,11,2026-11-04,(sin proveedor),contado,8.50,TRANSFER,

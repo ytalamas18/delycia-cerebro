@@ -10,4 +10,15 @@ fecha,nro_compra,proveedor,concepto,categoria,tipo,cantidad,unidad,monto_bs,nota
 2026-10-31,6,Tigo,Internet local,Gastos operativos,gasto_operativo,1.000,unidad,195.00,"agosto, septiembre, octubre"
 2026-10-31,6,Tigo,Internet local,Gastos operativos,gasto_operativo,1.000,unidad,195.00,"agosto, septiembre, octubre"
 2026-10-31,6,Tigo,Internet local,Gastos operativos,gasto_operativo,1.000,unidad,195.00,"agosto, septiembre, octubre"
+2026-11-01,7,Casera carne,Carne molida,Insumos,insumo,2.080,kg,100.00,
+2026-11-01,7,Casera carne,Bollo grande,Insumos,insumo,3.830,kg,276.00,
+2026-11-01,8,Casera carne,Pechuga de pollo,Insumos,insumo,5.500,kg,116.00,
+2026-11-01,9,(sin proveedor),Agua c/gas 500 ml,Bebidas,insumo,6.000,unidad,25.00,
+2026-11-01,9,(sin proveedor),Coca Cola 2 L,Bebidas,insumo,6.000,unidad,75.00,
+2026-11-01,9,(sin proveedor),Refrigerio,Insumos,insumo,1.000,unidad,10.00,
 2026-11-02,1,Fabio papas,Papa cruda,Insumos,insumo,30.000,kg,390.00,
+2026-11-02,12,(sin proveedor),Pan de lomito,Insumos,insumo,10.000,unidad,16.00,
+2026-11-02,12,(sin proveedor),Pan hamburguesa,Insumos,insumo,30.000,unidad,42.50,
+2026-11-02,13,(sin proveedor),Pechuga de pollo,Insumos,insumo,2.200,kg,59.00,
+2026-11-04,10,(sin proveedor),Transporte,Gastos operativos,gasto_operativo,1.000,unidad,13.00,DElivery queso
+2026-11-04,11,(sin proveedor),Pan hamburguesa,Insumos,insumo,6.000,unidad,8.50,
