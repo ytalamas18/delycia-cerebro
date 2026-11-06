@@ -8,5 +8,9 @@ fecha,nro_compra,fecha_compra,proveedor,tipo,monto_bs,medio,nota
 2026-11-02,6,2026-10-31,Tigo,abono,195.00,TRANSFER,25252705
 2026-11-02,12,2026-11-02,(sin proveedor),contado,58.50,TRANSFER,
 2026-11-02,13,2026-11-02,(sin proveedor),contado,59.00,TRANSFER,
+2026-11-02,14,2026-11-02,(sin proveedor),contado,261.50,TRANSFER,
+2026-11-02,15,2026-11-02,(sin proveedor),contado,65.00,TRANSFER,
+2026-11-03,16,2026-11-03,(sin proveedor),contado,286.00,TRANSFER,
 2026-11-04,10,2026-11-04,(sin proveedor),contado,13.00,TRANSFER,
 2026-11-04,11,2026-11-04,(sin proveedor),contado,8.50,TRANSFER,
+2026-11-05,17,2026-11-05,Embol,contado,720.60,TRANSFER,

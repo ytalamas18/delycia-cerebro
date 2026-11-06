@@ -1,2 +1,2 @@
-export: 2026-11-05 01:00 (hora La Paz)
-pos: 0c22443
+export: 2026-11-06 01:00 (hora La Paz)
+pos: 40992b1
