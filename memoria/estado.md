@@ -1,11 +1,12 @@
 # Estado actual de Delycia
 
-Última actualización: 2026-11-05.
+Última actualización: 2026-11-09.
 
 ## Negocio
 - Restaurante casual de comida casera artesanal. Av. San Pablo de Tarso esq. Las Hortensias (al lado del
   Cond. La Pradera), Santa Cruz de la Sierra. Tel. 33212850. Atención **18:00–23:30** (antes 12:00–15:00; cambio informado el 2026-11-01).
 - **Situación: crisis.** Deudas con proveedores y personal, ventas bajas, insumos caros.
+- **09/11: se evalúa si seguir o cerrar.** Harumi tampoco querría seguir (sin confirmar); Yasser este mes tendrá menos efectivo para cubrir faltantes. Sociedad con Harumi: 50-50 con Yasser 50+1 (dicho por Yasser).
 
 ## Equipo
 | Persona | Rol | Nota |
