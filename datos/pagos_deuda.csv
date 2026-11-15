@@ -14,3 +14,4 @@ fecha,nro_compra,fecha_compra,proveedor,tipo,monto_bs,medio,nota
 2026-11-04,10,2026-11-04,(sin proveedor),contado,13.00,TRANSFER,
 2026-11-04,11,2026-11-04,(sin proveedor),contado,8.50,TRANSFER,
 2026-11-05,17,2026-11-05,Embol,contado,720.60,TRANSFER,
+2026-11-14,18,2026-11-14,(sin proveedor),contado,129.78,TRANSFER,
