@@ -1,6 +1,6 @@
 # Estado actual de Delycia
 
-Última actualización: 2026-11-09.
+Última actualización: 2026-11-20.
 
 ## Negocio
 - Restaurante casual de comida casera artesanal. Av. San Pablo de Tarso esq. Las Hortensias (al lado del
@@ -59,6 +59,9 @@ pasa a la cuenta principal (si tenía saldo, también es caja del negocio).
   cáscara" (kg, se compra por **arroba**) = la que a veces se compra aparte. ✅ dicho por Yasser 05/11.
   **Arroba = 11,5 kg** (dicho por Yasser 05/11; escribió "1,,5", interpretado como 11,5 ⚠️ confirmar).
   **Libra = 0,46 kg** (referencia de internet: arroba = 25 libras → 11,5 ÷ 25; ⚠️ sin confirmar con proveedor).
+- **Papa entera pelada (20/11, Yasser):** 1 arroba ≈ 11,5 kg → 9,6 kg pelada (rendimiento 83,5 %, merma 16,5 %).
+  Arroba a **120 Bs** (⚠️ escribió "120kg", interpretado como 120 Bs; ¿incluye moto?) → 120 ÷ 9,6 = **12,50 Bs/kg pelada**
+  vs Fabio 13 Bs/kg (ya cortada, a crédito). Punto de equilibrio: arroba puesta en local ≤ 124,80 Bs (13 × 9,6).
 - Papa frita: ≈ 470 g por kg facturado (≈ 48 % pérdida al freír + ≈ 2 % faltante del proveedor). Referencia
   teórica era 37,5 % de merma. ⚠️ Confirmar con muestras más grandes.
 - En reportes viejos de Siesam, "SALCHIPAPA CLASICA" = salchipapa de pollo.
