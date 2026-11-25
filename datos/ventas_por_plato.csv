@@ -25,10 +25,10 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-10-18,Lomito Doble,Lomitos,PREPARED,LOCAL,1,42.00,42.00
 2026-10-18,Salchipapa de Pollo,Salchipapas,PREPARED,LOCAL,1,28.00,28.00
 2026-10-18,Coca Cola 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
-2026-10-18,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
-2026-10-18,AQUARIUS POMELO 2L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-10-18,Fanta Guaraná 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-10-18,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
+2026-10-18,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
+2026-10-18,AQUARIUS POMELO 2L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-10-18,SOPA DE MANI,Almuerzos,NORMAL,LOCAL,1,13.00,13.00
 2026-10-18,Coca Cola 300 ml,Bebidas,NORMAL,LOCAL,2,6.00,12.00
 2026-10-19,Hamburguesa Onion-String Simple,Hamburguesas,PREPARED,LOCAL,3,44.00,132.00
@@ -36,8 +36,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-10-19,Hamburguesa Clásica Simple,Hamburguesas,PREPARED,LOCAL,2,40.00,80.00
 2026-10-19,Lomito Doble,Lomitos,PREPARED,LOCAL,1,42.00,42.00
 2026-10-19,Milanesa Picada Carne,Milanesas,PREPARED,LOCAL,1,39.00,39.00
-2026-10-19,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,1,37.00,37.00
 2026-10-19,Hamburguesa BBQ Simple,Hamburguesas,PREPARED,LOCAL,1,37.00,37.00
+2026-10-19,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,1,37.00,37.00
 2026-10-19,Salchipapa de Pollo,Salchipapas,PREPARED,LOCAL,1,28.00,28.00
 2026-10-19,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,3,9.00,27.00
 2026-10-19,Fanta Papaya 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
@@ -73,9 +73,9 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-10-22,Hamburguesa Clásica Simple,Hamburguesas,PREPARED,LOCAL,1,40.00,40.00
 2026-10-22,Hamburguesa BBQ Simple,Hamburguesas,PREPARED,LOCAL,1,37.00,37.00
 2026-10-22,Salchipapa de Pollo,Salchipapas,PREPARED,LOCAL,1,28.00,28.00
+2026-10-22,AQUARIUS POMELO 2L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-10-22,Fanta Guaraná 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-10-22,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
-2026-10-22,AQUARIUS POMELO 2L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-10-22,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-22,Coca Cola 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-10-23,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,5,37.00,185.00
@@ -85,9 +85,9 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-10-23,Salchipapa de Pollo,Salchipapas,PREPARED,LOCAL,4,28.00,112.00
 2026-10-23,Hamburguesa BBQ Doble,Hamburguesas,PREPARED,LOCAL,2,46.00,92.00
 2026-10-23,Hamburguesa Onion-String Simple,Hamburguesas,PREPARED,LOCAL,2,44.00,88.00
-2026-10-23,Salchipapa de Cerdo,Salchipapas,PREPARED,LOCAL,2,39.00,78.00
 2026-10-23,Sándwich Milanesa Carne,Sándwiches,PREPARED,LOCAL,2,39.00,78.00
 2026-10-23,Milanesa Picada Carne,Milanesas,PREPARED,LOCAL,2,39.00,78.00
+2026-10-23,Salchipapa de Cerdo,Salchipapas,PREPARED,LOCAL,2,39.00,78.00
 2026-10-23,Milanesa Picada Mixta,Milanesas,PREPARED,LOCAL,1,65.00,65.00
 2026-10-23,Hamburguesa Onion Doble,Hamburguesas,PREPARED,LOCAL,1,54.00,54.00
 2026-10-23,Lomito Doble,Lomitos,PREPARED,LOCAL,1,42.00,42.00
@@ -118,8 +118,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-10-25,Milanesa Napolitana Carne,Milanesas,PREPARED,LOCAL,1,55.00,55.00
 2026-10-25,Hamburguesa Ranchera Simple,Hamburguesas,PREPARED,LOCAL,1,46.00,46.00
 2026-10-25,Hamburguesa Onion-String Simple,Hamburguesas,PREPARED,LOCAL,1,44.00,44.00
-2026-10-25,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,1,37.00,37.00
 2026-10-25,Hamburguesa BBQ Simple,Hamburguesas,PREPARED,LOCAL,1,37.00,37.00
+2026-10-25,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,1,37.00,37.00
 2026-10-25,Coca Cola 2 L,Bebidas,NORMAL,LOCAL,2,18.00,36.00
 2026-10-25,Salchipapa de Pollo,Salchipapas,PREPARED,LOCAL,1,28.00,28.00
 2026-10-25,Porción de Papas,Papas,PREPARED,LOCAL,1,16.00,16.00
@@ -139,8 +139,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-10-26,AQUARIUS POMELO 2L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-10-26,Porción de Papas,Papas,PREPARED,LOCAL,1,16.00,16.00
 2026-10-26,Simba Durazno 2 L,Bebidas,NORMAL,LOCAL,1,16.00,16.00
-2026-10-26,Coca Cola Zero 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-26,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-10-26,Coca Cola Zero 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-26,Agua s/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-26,Coca Cola Zero 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-10-27,Hamburguesa Clásica Simple,Hamburguesas,PREPARED,LOCAL,4,40.00,160.00
@@ -149,11 +149,11 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-10-27,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,2,37.00,74.00
 2026-10-27,Hamburguesa Ranchera Simple,Hamburguesas,PREPARED,LOCAL,1,46.00,46.00
 2026-10-27,Salchipapa de Cerdo,Salchipapas,PREPARED,LOCAL,1,39.00,39.00
-2026-10-27,Sándwich Milanesa Pollo,Sándwiches,PREPARED,LOCAL,1,35.00,35.00
 2026-10-27,Lomito Simple,Lomitos,PREPARED,LOCAL,1,35.00,35.00
+2026-10-27,Sándwich Milanesa Pollo,Sándwiches,PREPARED,LOCAL,1,35.00,35.00
 2026-10-27,Coca Cola 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
-2026-10-27,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-27,Fanta Guaraná 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-10-27,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-28,Pipoca de Pollo,Piqueos,PREPARED,LOCAL,8,38.00,304.00
 2026-10-28,Piqueo Familiar,Piqueos,PREPARED,LOCAL,1,175.00,175.00
 2026-10-28,Lomito Simple,Lomitos,PREPARED,LOCAL,4,35.00,140.00
@@ -183,8 +183,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-10-29,Coca Cola 300 ml,Bebidas,NORMAL,LOCAL,3,6.00,18.00
 2026-10-29,Coca Cola Zero 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-10-29,Simba Manzana 2 L,Bebidas,NORMAL,LOCAL,1,16.00,16.00
-2026-10-29,Fanta Guaraná 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-29,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-10-29,Fanta Guaraná 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-29,Sprite 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-10-29,Coca Cola Zero 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-10-30,Lomito Simple,Lomitos,PREPARED,LOCAL,5,35.00,175.00
@@ -216,13 +216,13 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-10-31,Coca Cola Zero 500 ml,Bebidas,NORMAL,LOCAL,4,9.00,36.00
 2026-10-31,Sándwich Milanesa Pollo,Sándwiches,PREPARED,LOCAL,1,35.00,35.00
 2026-10-31,IPA,PROMO CERVEZA,NORMAL,LOCAL,2,15.00,30.00
-2026-10-31,Porción de Papas,Papas,PREPARED,LOCAL,1,16.00,16.00
 2026-10-31,Simba Manzana 2 L,Bebidas,NORMAL,LOCAL,1,16.00,16.00
+2026-10-31,Porción de Papas,Papas,PREPARED,LOCAL,1,16.00,16.00
 2026-10-31,Fanta Guaraná 300 ml,Bebidas,NORMAL,LOCAL,2,6.00,12.00
-2026-10-31,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-31,Fanta Naranja 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
-2026-10-31,Agua s/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-31,Fanta Guaraná 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-10-31,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-10-31,Agua s/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-31,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-10-31,Fanta Papaya 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-01,Lomito Simple,Lomitos,PREPARED,LOCAL,13,35.00,455.00
@@ -247,8 +247,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-01,Coca Cola Zero 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-01,Porción de Papas,Papas,PREPARED,LOCAL,1,16.00,16.00
 2026-11-01,Simba Durazno 2 L,Bebidas,NORMAL,LOCAL,1,16.00,16.00
-2026-11-01,Agua s/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-01,Fanta Papaya 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-11-01,Agua s/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-01,Fanta Guaraná 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-01,Sprite 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-02,Hamburguesa BBQ Simple,Hamburguesas,PREPARED,LOCAL,10,37.00,370.00
@@ -289,8 +289,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-03,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-03,Sprite 300 ml,Bebidas,NORMAL,LOCAL,2,6.00,12.00
 2026-11-03,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
-2026-11-03,Fanta Naranja 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-03,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-11-03,Fanta Naranja 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-03,Coca Cola Zero 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-04,Lomito Simple,Lomitos,PREPARED,LOCAL,5,35.00,175.00
 2026-11-04,LAGER,PROMO CERVEZA,NORMAL,LOCAL,10,15.00,150.00
@@ -310,12 +310,12 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-05,Salchipapa de Cerdo,Salchipapas,PREPARED,LOCAL,2,39.00,78.00
 2026-11-05,Milanesa Picada Mixta,Milanesas,PREPARED,LOCAL,1,65.00,65.00
 2026-11-05,Milanesa Napolitana Carne,Milanesas,PREPARED,LOCAL,1,55.00,55.00
-2026-11-05,Sándwich Milanesa Pollo,Sándwiches,PREPARED,LOCAL,1,35.00,35.00
 2026-11-05,Lomito Simple,Lomitos,PREPARED,LOCAL,1,35.00,35.00
+2026-11-05,Sándwich Milanesa Pollo,Sándwiches,PREPARED,LOCAL,1,35.00,35.00
 2026-11-05,LAGER,PROMO CERVEZA,NORMAL,LOCAL,2,15.00,30.00
+2026-11-05,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-05,Coca Cola Zero 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-05,Coca Cola 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
-2026-11-05,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-05,Coca Cola Zero 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-06,Lomito Simple,Lomitos,PREPARED,LOCAL,11,35.00,385.00
 2026-11-06,Hamburguesa Clásica Simple,Hamburguesas,PREPARED,LOCAL,6,40.00,240.00
@@ -337,9 +337,9 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-06,Simba Manzana 2 L,Bebidas,NORMAL,LOCAL,2,16.00,32.00
 2026-11-06,Coca Cola Zero 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-06,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
+2026-11-06,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-06,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-06,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
-2026-11-06,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-06,Fanta Guaraná 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-06,Coca Cola 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-08,Lomito Simple,Lomitos,PREPARED,LOCAL,10,35.00,350.00
@@ -368,16 +368,16 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-09,Sándwich Milanesa Carne,Sándwiches,PREPARED,LOCAL,1,39.00,39.00
 2026-11-09,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,1,37.00,37.00
 2026-11-09,Fanta Guaraná 2 L,Bebidas,NORMAL,LOCAL,2,18.00,36.00
-2026-11-09,Fanta Papaya 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-09,Fanta Guaraná 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
+2026-11-09,Fanta Papaya 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-09,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-09,Simba Manzana 2 L,Bebidas,NORMAL,LOCAL,1,16.00,16.00
-2026-11-09,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
-2026-11-09,Agua s/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-09,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-11-09,Agua s/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-11-09,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-11-09,Coca Cola Zero 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-09,Coca Cola 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-09,Fanta Guaraná 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
-2026-11-09,Coca Cola Zero 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-10,Pipoca de Pollo,Piqueos,PREPARED,LOCAL,7,38.00,266.00
 2026-11-10,Hamburguesa Ranchera Simple,Hamburguesas,PREPARED,LOCAL,4,46.00,184.00
 2026-11-10,Lomito Simple,Lomitos,PREPARED,LOCAL,4,35.00,140.00
@@ -404,10 +404,10 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-11,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,2,37.00,74.00
 2026-11-11,Hamburguesa Clásica Triple,Hamburguesas,PREPARED,LOCAL,1,63.00,63.00
 2026-11-11,Milanesa Napolitana Carne,Milanesas,PREPARED,LOCAL,1,55.00,55.00
-2026-11-11,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
-2026-11-11,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-11,Fanta Guaraná 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
+2026-11-11,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-11,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
+2026-11-11,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-11,Simba Manzana 2 L,Bebidas,NORMAL,LOCAL,1,16.00,16.00
 2026-11-11,Agua s/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-11,Fanta Guaraná 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
@@ -421,8 +421,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-12,Hamburguesa Ranchera Simple,Hamburguesas,PREPARED,LOCAL,1,46.00,46.00
 2026-11-12,Coca Cola 2 L,Bebidas,NORMAL,LOCAL,2,18.00,36.00
 2026-11-12,LAGER,PROMO CERVEZA,NORMAL,LOCAL,2,15.00,30.00
-2026-11-12,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-12,Coca Cola Zero 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
+2026-11-12,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-12,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-13,Salchipapa de Pollo,Salchipapas,PREPARED,LOCAL,8,28.00,224.00
 2026-11-13,Lomito Doble,Lomitos,PREPARED,LOCAL,5,42.00,210.00
@@ -439,9 +439,9 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-13,Hamburguesa BBQ Simple,Hamburguesas,PREPARED,LOCAL,1,37.00,37.00
 2026-11-13,Sprite 500 ml,Bebidas,NORMAL,LOCAL,3,9.00,27.00
 2026-11-13,Coca Cola 300 ml,Bebidas,NORMAL,LOCAL,3,6.00,18.00
-2026-11-13,Fanta Guaraná 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-13,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-13,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
+2026-11-13,Fanta Guaraná 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-13,Simba Durazno 2 L,Bebidas,NORMAL,LOCAL,1,16.00,16.00
 2026-11-13,Fanta Guaraná 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-13,Coca Cola Zero 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
@@ -459,13 +459,13 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-14,Lomito Doble,Lomitos,PREPARED,LOCAL,1,42.00,42.00
 2026-11-14,Hamburguesa Clásica Simple,Hamburguesas,PREPARED,LOCAL,1,40.00,40.00
 2026-11-14,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,4,9.00,36.00
-2026-11-14,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-14,Coca Cola Zero 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
+2026-11-14,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-14,Simba Durazno 2 L,Bebidas,NORMAL,LOCAL,1,16.00,16.00
 2026-11-14,Sprite 300 ml,Bebidas,NORMAL,LOCAL,2,6.00,12.00
 2026-11-14,Coca Cola 300 ml,Bebidas,NORMAL,LOCAL,2,6.00,12.00
-2026-11-14,Fanta Guaraná 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-14,Coca Cola Zero 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-11-14,Fanta Guaraná 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-14,Coca Cola Zero 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-15,Lomito Simple,Lomitos,PREPARED,LOCAL,16,35.00,560.00
 2026-11-15,Milanesa Picada Carne,Milanesas,PREPARED,LOCAL,6,39.00,234.00
@@ -480,15 +480,15 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-15,Fanta Guaraná 500 ml,Bebidas,NORMAL,LOCAL,5,9.00,45.00
 2026-11-15,Hamburguesa BBQ Simple,Hamburguesas,PREPARED,LOCAL,1,37.00,37.00
 2026-11-15,Sprite 500 ml,Bebidas,NORMAL,LOCAL,3,9.00,27.00
-2026-11-15,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-15,Fanta Papaya 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
-2026-11-15,Coca Cola Zero 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-15,Coca Cola 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
+2026-11-15,Coca Cola Zero 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
+2026-11-15,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-15,Porción de Papas,Papas,PREPARED,LOCAL,1,16.00,16.00
 2026-11-15,Coca Cola 300 ml,Bebidas,NORMAL,LOCAL,2,6.00,12.00
 2026-11-15,Agua s/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
-2026-11-15,Sprite 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-15,Coca Cola Zero 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
+2026-11-15,Sprite 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-16,Lomito Simple,Lomitos,PREPARED,LOCAL,5,35.00,175.00
 2026-11-16,Milanesa Picada Carne,Milanesas,PREPARED,LOCAL,4,39.00,156.00
 2026-11-16,Pipoca de Pollo,Piqueos,PREPARED,LOCAL,4,38.00,152.00
@@ -500,8 +500,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-16,LAGER,PROMO CERVEZA,NORMAL,LOCAL,2,15.00,30.00
 2026-11-16,Coca Cola 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-16,Fanta Guaraná 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
-2026-11-16,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-16,Fanta Papaya 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
+2026-11-16,Sprite 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-16,Simba Durazno 2 L,Bebidas,NORMAL,LOCAL,1,16.00,16.00
 2026-11-16,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-17,Lomito Simple,Lomitos,PREPARED,LOCAL,8,35.00,280.00
@@ -531,8 +531,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-19,Milanesa Picada Mixta,Milanesas,PREPARED,LOCAL,2,65.00,130.00
 2026-11-19,Lomito Doble,Lomitos,PREPARED,LOCAL,3,42.00,126.00
 2026-11-19,Hamburguesa Clásica Simple,Hamburguesas,PREPARED,LOCAL,2,40.00,80.00
-2026-11-19,Hamburguesa BBQ Simple,Hamburguesas,PREPARED,LOCAL,2,37.00,74.00
 2026-11-19,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,2,37.00,74.00
+2026-11-19,Hamburguesa BBQ Simple,Hamburguesas,PREPARED,LOCAL,2,37.00,74.00
 2026-11-19,Milanesa Napolitana Pollo,Milanesas,PREPARED,LOCAL,1,55.00,55.00
 2026-11-19,LAGER,PROMO CERVEZA,NORMAL,LOCAL,3,15.00,45.00
 2026-11-19,Coca Cola Zero 2 L,Bebidas,NORMAL,LOCAL,2,18.00,36.00
@@ -559,8 +559,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-20,Coca Cola Zero 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
 2026-11-20,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
 2026-11-20,Simba Manzana 2 L,Bebidas,NORMAL,LOCAL,1,16.00,16.00
-2026-11-20,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-20,Fanta Guaraná 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-11-20,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-20,Coca Cola Zero 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-21,Hamburguesa Clásica Simple,Hamburguesas,PREPARED,LOCAL,9,40.00,360.00
 2026-11-21,Lomito Simple,Lomitos,PREPARED,LOCAL,9,35.00,315.00
@@ -590,8 +590,8 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-22,Pipoca de Pollo,Piqueos,PREPARED,LOCAL,1,38.00,38.00
 2026-11-22,Hamburguesa BBQ Simple,Hamburguesas,PREPARED,LOCAL,1,37.00,37.00
 2026-11-22,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,1,37.00,37.00
-2026-11-22,Sprite 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-22,Coca Cola 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
+2026-11-22,Sprite 300 ml,Bebidas,NORMAL,LOCAL,1,6.00,6.00
 2026-11-23,Lomito Simple,Lomitos,PREPARED,LOCAL,8,35.00,280.00
 2026-11-23,Lomito Especial,Lomitos,PREPARED,LOCAL,3,59.00,177.00
 2026-11-23,Lomito Doble,Lomitos,PREPARED,LOCAL,4,42.75,171.00
@@ -606,6 +606,21 @@ fecha,plato,categoria,tipo,canal,cantidad,precio_promedio_bs,total_bs
 2026-11-23,Salchipapa de Pollo,Salchipapas,PREPARED,LOCAL,1,28.00,28.00
 2026-11-23,LAGER,CERVEZA,NORMAL,LOCAL,1,20.00,20.00
 2026-11-23,Porción de Papas,Papas,PREPARED,LOCAL,1,16.00,16.00
-2026-11-23,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-23,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-11-23,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
 2026-11-23,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-11-24,Lomito Simple,Lomitos,PREPARED,LOCAL,9,35.00,315.00
+2026-11-24,Salchipapa de Pollo,Salchipapas,PREPARED,LOCAL,5,28.00,140.00
+2026-11-24,Sándwich Milanesa Pollo,Sándwiches,PREPARED,LOCAL,3,35.00,105.00
+2026-11-24,Hamburguesa Onion-String Simple,Hamburguesas,PREPARED,LOCAL,2,44.00,88.00
+2026-11-24,Milanesa Picada Pollo,Milanesas,PREPARED,LOCAL,2,37.00,74.00
+2026-11-24,Milanesa Picada Mixta,Milanesas,PREPARED,LOCAL,1,65.00,65.00
+2026-11-24,Milanesa Napolitana Carne,Milanesas,PREPARED,LOCAL,1,55.00,55.00
+2026-11-24,Coca Cola 2 L,Bebidas,NORMAL,LOCAL,3,18.00,54.00
+2026-11-24,Salchipapa de Cerdo,Salchipapas,PREPARED,LOCAL,1,39.00,39.00
+2026-11-24,Pipoca de Pollo,Piqueos,PREPARED,LOCAL,1,38.00,38.00
+2026-11-24,Fanta Guaraná 2 L,Bebidas,NORMAL,LOCAL,1,18.00,18.00
+2026-11-24,Coca Cola 500 ml,Bebidas,NORMAL,LOCAL,2,9.00,18.00
+2026-11-24,Porción de Papas,Papas,PREPARED,LOCAL,1,16.00,16.00
+2026-11-24,Agua c/gas 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
+2026-11-24,Sprite 500 ml,Bebidas,NORMAL,LOCAL,1,9.00,9.00
